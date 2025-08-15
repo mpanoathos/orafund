@@ -48,10 +48,10 @@ function Navbar() {
             <a href="#home" className="px-4 py-2 rounded-full text-gray-900 font-semibold hover:bg-blue-100 hover:text-blue-700 transition duration-200 shadow-sm" onClick={() => setMenuOpen(false)}>Home</a>
           </li>
           <li>
-            <a href="#about" className="px-4 py-2 rounded-full text-gray-900 font-semibold hover:bg-blue-100 hover:text-blue-700 transition duration-200 shadow-sm" onClick={() => setMenuOpen(false)}>About</a>
+            <a href="#challenges" className="px-4 py-2 rounded-full text-gray-900 font-semibold hover:bg-blue-100 hover:text-blue-700 transition duration-200 shadow-sm" onClick={() => setMenuOpen(false)}>Challenge</a>
           </li>
           <li>
-            <a href="#services" className="px-4 py-2 rounded-full text-gray-900 font-semibold hover:bg-blue-100 hover:text-blue-700 transition duration-200 shadow-sm" onClick={() => setMenuOpen(false)}>Services</a>
+            <a href="#products" className="px-4 py-2 rounded-full text-gray-900 font-semibold hover:bg-blue-100 hover:text-blue-700 transition duration-200 shadow-sm" onClick={() => setMenuOpen(false)}>Solution</a>
           </li>
           <li>
             <a href="#contact" className="px-4 py-2 rounded-full text-gray-900 font-semibold hover:bg-blue-100 hover:text-blue-700 transition duration-200 shadow-sm" onClick={() => setMenuOpen(false)}>Contact</a>
