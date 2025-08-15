@@ -14,7 +14,7 @@ function Challenges() {
             The Challenge
             <span className="block w-16 bg-gradient-to-r from-blue-400 to-blue-700 rounded-full mx-auto mt-4"></span>
           </h2>
-          <p className="text-xl text-white font-medium text-center max-w-3xl mb-8">
+          <p className="text-xl text-black font-medium text-center max-w-3xl mb-8">
             Africa faces critical financial inclusion barriers that prevent millions from accessing the capital they need to thrive.
           </p>
         </div>
